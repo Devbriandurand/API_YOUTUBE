@@ -1,0 +1,13 @@
+body { background: rgb(241, 249, 255);}
+header { margin-top: 30px; }
+header a { color: rgb(0, 0, 0); text-decoration: none;}
+header a:hover { text-decoration: none;}
+form {margin-top:20px;}
+form, #results { padding-bottom: 25px;}
+.item {margin-bottom:25px;}
+.w100 { width: 100%;}
+
+.btn-primary { font-weight: 600; color: rgb(241, 249, 255); background:rgb(148, 145, 145); border-color: rgb(0, 0, 0);}
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background: rgb(0, 47, 83);}
+
+#results {width: 80%; height: auto;}
